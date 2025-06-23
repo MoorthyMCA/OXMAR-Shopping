@@ -21,16 +21,16 @@
 
 
 import React from 'react';
-import Navbar from './Components/Navbar';
-import Home from './Components/Home';
+import Navbar from './components/Navbar';
+import Home from './components/Home';
 import { Routes, Route } from "react-router-dom"; 
-import Products from "./Components/Products";
-import Product from "./Components/Product";
-import Cart from "./Components/Cart";
+import Products from "./components/Products";
+import Product from "./components/Product";
+import Cart from "./components/Cart";
 import Login from './components/Login';
-import Register from './Components/Register'; // Ensure Register component is imported
-import Contact from './Components/Contact'; // Import Contact component if needed
-import Footer from './Components/Footer';
+import Register from './components/Register'; // Ensure Register component is imported
+import Contact from './components/Contact'; // Import Contact component if needed
+import Footer from './components/Footer';
 
 export const App = () => {
   return (

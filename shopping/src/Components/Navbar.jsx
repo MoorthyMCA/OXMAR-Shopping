@@ -1,5 +1,5 @@
 import React from 'react'
-import "../Components/Navbar.css";
+import "./Navbar.css";
 import { NavLink } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 

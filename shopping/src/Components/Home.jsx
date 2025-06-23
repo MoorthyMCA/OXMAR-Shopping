@@ -1,6 +1,6 @@
 import React from 'react'
 import Products from './Products';
-import "../Components/Home.css"
+import "./Home.css"
 import Footer from './Footer';
 
   const Home = () => {
