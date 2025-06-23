@@ -8,7 +8,10 @@ export const Contact = () => {
              <div className="card mb-3" style={{ maxWidth: "1000px" }}>
   <div className="row g-0">
     <div className="col-md-4">
-      <img src="/public/images/logo.jpg" className="img-fluid rounded-start" alt="background" />
+      {/* <img src="/public/images/logo.jpg" className="img-fluid rounded-start" alt="background" /> */}
+
+      <img src="/images/logo.jpg" className="img-fluid rounded-start" alt="background" />
+
     </div>
     <div className="col-md-8">
       <div className="card-body">
