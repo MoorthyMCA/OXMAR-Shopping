@@ -12,14 +12,14 @@ import Footer from './Footer';
   {/* <img src="/public/images/sp.png" class="card-img" alt="Background" height="650px"/> */}
 
     <img
-    src="/public/images/sp.png"
+    src="/images/sp.png"
     className="card-img d-none d-md-block responsive-bg"
     alt="Background for desktop"
     height="650px"
   />
 
    <img
-    src="/public/images/sp.png"
+    src="/images/sp.png"
     className="card-img d-block d-md-none responsive-bg"
     alt="Background for mobile"
     height="500px"
