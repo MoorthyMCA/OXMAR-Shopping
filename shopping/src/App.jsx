@@ -27,7 +27,7 @@ import { Routes, Route } from "react-router-dom";
 import Products from "./Components/Products";
 import Product from "./Components/Product";
 import Cart from "./Components/Cart";
-import Login from './Components/login';
+import Login from './components/Login';
 import Register from './Components/Register'; // Ensure Register component is imported
 import Contact from './Components/Contact'; // Import Contact component if needed
 import Footer from './Components/Footer';
